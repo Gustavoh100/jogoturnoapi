@@ -1,2 +1,2 @@
 # jogoturnoapi
-Prova em dupla Gab e Gustavo CRUD 
+Prova em dupla Gab Teodoro e Gustavo CRUD 
